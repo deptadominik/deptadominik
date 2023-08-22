@@ -1,6 +1,6 @@
 ## 💫 About me
-- IT student at Silesian University of Technology in Gliwice 🎓
-- Currently working on my engineering thesis, which is about end-to-end web application testing 💻
+- IT engineer, graduate of the Silesian University of Technology in Gliwice 🎓
+- Master's student at WSB Merito University in Chorzów 💻
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominik-depta-37605b186/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100002781842750) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCNVTNmf2IatJy1fbMsBGb2w) 
